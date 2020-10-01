@@ -12,3 +12,4 @@ print("Hexadecimal value of " + str(num) + " is " + hex(num))
 print("Octal value of " + str(num) + " is " + oct(num))
 print("Square Root of " + str(num) + " is " + str(num**(1/2)))
 input()
+#thank you so much
